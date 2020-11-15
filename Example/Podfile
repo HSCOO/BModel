@@ -1,0 +1,6 @@
+use_frameworks!
+target 'BModel_Tests' do
+  pod 'BModel', :path => '../'
+  
+  
+end
