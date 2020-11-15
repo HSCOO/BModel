@@ -1,0 +1,16 @@
+PODS:
+  - BModel (0.1.0)
+
+DEPENDENCIES:
+  - BModel (from `../`)
+
+EXTERNAL SOURCES:
+  BModel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BModel: 4cb69529a2861b316e746cf935646ed32ed508b3
+
+PODFILE CHECKSUM: 6ab811712041da00abe4f6c0eba75a02a2693c51
+
+COCOAPODS: 1.8.4
